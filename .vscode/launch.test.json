@@ -1,0 +1,28 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "managerservice",
+                "projectName": "managerservice",
+                "workingDirectory": "c:\\dev\\devOpsChallenge\\ManagerService",
+                "args": [],
+                "vmargs": [],
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "managerservice",
+                "projectName": "managerservice",
+                "workingDirectory": "c:\\dev\\devOpsChallenge\\ManagerService",
+                "args": [],
+                "vmargs": [],
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
